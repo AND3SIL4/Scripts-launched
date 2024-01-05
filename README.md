@@ -74,7 +74,7 @@ Este script en Python está diseñado para organizar archivos en una carpeta esp
 ## Uso usuarios
 
 1. **Descargar el Script:**
-   - [Descargue el script (`organizador.exe`)](https://google.com).
+   - [Descargue el script (`organizador.exe`)](https://github.com/AND3SIL4/Scripts-launched/blob/main/organizador.exe).
 
 2. **Ejecutar el Script:**
    - Ejecute dando enter o doble clic.
