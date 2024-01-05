@@ -12,7 +12,9 @@ Este ejecutable automatiza tareas utilizando Selenium para interactuar con una a
 
 - Sistema Operativo: Windows
 - No se requiere una instalación adicional de Python.
-
+- Tener una carpeta llamada **`datos`** en la raíz del archivo ejecutable
+- Dentro de la carpeta **`datos`** debe existir el archivo a leer, llamado **`database.xlsx`**
+  
 ## Uso
 
 1. **Descargar el Ejecutable:**
