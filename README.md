@@ -16,7 +16,7 @@ Este ejecutable automatiza tareas utilizando Selenium para interactuar con una a
 ## Uso
 
 1. **Descargar el Ejecutable:**
-   - Descargar el archivo ejecutable (`scraping.exe`).
+   - [Descargar el archivo ejecutable (`scraping.exe`)](https://github.com/AND3SIL4/Scripts-launched/blob/main/scraping.exe).
 
 2. **Ejecutar el Ejecutable:**
    - Hacer doble clic en el archivo ejecutable para ejecutarlo.
