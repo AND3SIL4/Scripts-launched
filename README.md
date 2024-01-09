@@ -8,7 +8,7 @@
 
 Este ejecutable automatiza tareas utilizando Selenium para interactuar con una aplicación web. El script ha sido convertido en un archivo ejecutable, eliminando la necesidad de una instalación de Python.
 
-## Requisitos
+## Requisitos (en caso de error en el archivo comprimido)
 
 - Sistema Operativo: Windows
 - No se requiere una instalación adicional de Python.
@@ -17,11 +17,12 @@ Este ejecutable automatiza tareas utilizando Selenium para interactuar con una a
   
 ## Uso
 
-1. **Descargar el Ejecutable:**
-   - [Descargar el archivo ejecutable (`scraping.exe`)](https://github.com/AND3SIL4/Scripts-launched/blob/main/scraping.exe).
+1. **Descargar el archivo comprimido:**
+   - [Descargar el archivo ejecutable (`scrape.rar`)](https://github.com/AND3SIL4/Scripts-launched/blob/main/scrape.rar).
+   - Descomprimir el archivo
 
-2. **Ejecutar el Ejecutable:**
-   - Hacer doble clic en el archivo ejecutable para ejecutarlo.
+2. **Ejecutar el archivo:**
+   - Hacer doble clic en el archivo `scrape.exe` ejecutable para ponerlo a funcionar.
    - Si se solicita por el sistema operativo o el software antivirus, permitir la ejecución.
 
 3. **Configurar Ajustes (Opcional):**
